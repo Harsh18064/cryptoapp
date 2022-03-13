@@ -1,7 +1,8 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
 Cryptoverse Web Application
-///////////////////////////////////////////////////////////
+
+
 ->  Built a Cryptocurrency React application containing in-depth data about cryptocurrencies, markets, and
 popular crypto news.
 ->  Used React for frontend, Redux Toolkit to create Actions and Reducers, Hooks for state
